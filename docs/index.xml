@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Venneforeningen for St. Olavsalteret i Roma</title>
-    <link>https://valdemarrolfsen.github.io/olaviroma/docs/</link>
+    <link>https://valdemarrolfsen.github.io/olaviroma/</link>
     <description>Recent content on Venneforeningen for St. Olavsalteret i Roma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://valdemarrolfsen.github.io/olaviroma/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://valdemarrolfsen.github.io/olaviroma/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

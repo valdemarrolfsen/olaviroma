@@ -1,4 +1,4 @@
-baseURL = "https://valdemarrolfsen.github.io/olaviroma/docs/"
+baseURL = "https://valdemarrolfsen.github.io/olaviroma/"
 languageCode = "en-us"
 title = "Venneforeningen for St. Olavsalteret i Roma"
 theme = "dimension"
