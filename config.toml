@@ -2,7 +2,6 @@ baseURL = "https://valdemarrolfsen.github.io/olaviroma/"
 languageCode = "en-us"
 title = "Venneforeningen for St. Olavsalteret i Roma"
 theme = "dimension"
-publishDir = "docs"
 
 staticDir = ["static"]
 
