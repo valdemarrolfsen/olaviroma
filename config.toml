@@ -7,5 +7,5 @@ staticDir = ["static"]
 
 
 [params]
-    logoimage = "/images/cross.png" 
+    logoimage = "https://valdemarrolfsen.github.io/olaviroma/images/cross.png" 
     description = "Roma har en helt spesiell plass i Kirkens historie og bevissthet, og gjennom århundrene har det vokst frem en skikk med nasjonale kirker, kapell og altere i denne byen.  I 1892 ga pave Leo XIII den norske misjon, som det het den gang, et privilegert alter i en av de flotteste av alle Romas gudshus - den mektige barokkirken S. Carlo al Corso. Den ligger dominerende ved byens hovedgate, il Corso, og har røtter tilbake til 1400-tallet. Drivkraften bak at alteret ble opprettet, var biskop Johannes Fallize, som var overhode for de norske katolikkene. I 1893 fikk han den berømte portrettmaler Pius Welonski til å male altertavlen. Når alteret siden har vært holdt i hevd, skyldes det ikke minst to lutherske norske damer: Ciss Rieber-Mohn og Olgese Mowinckel Ringler. Med en blanding av sjarm, takt og direkte tale sikret de det norske nærværet fra 1950 til 2000."
