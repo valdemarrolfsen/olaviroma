@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://valdemarrolfsen.github.io/olaviroma/docs/"
 languageCode = "en-us"
 title = "Venneforeningen for St. Olavsalteret i Roma"
 theme = "dimension"
