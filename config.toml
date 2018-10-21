@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Venneforeningen for St. Olavsalteret i Roma"
 theme = "dimension"
+publishDir = "docs"
 
 staticDir = ["static"]
 
