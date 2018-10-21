@@ -1,16 +1,19 @@
 ---
-title: "Styret"
-date: 2018-10-21T21:20:44+02:00
+title: Styret
+date: 2018-10-21 19:20:44 +0000
 draft: true
----
 
+---
 ### Foreningens styre består av:
-- Olav Dag Hauge
-- Morten S. Selle
-- Jan Schumacher
-- Kristin Bliksrud Aavitsland
+
+* Olav Dag Hauge
+* Morten S. Selle
+* Jan Schumacher
+* Kristin Bliksrud Aavitsland
+* Margunn Sandal
 
 ### Stiftelsens styre består av:
-- Nina Reiersen
-- Bernt Eidsvig
-- Lilli Stenius
+
+* Nina Reiersen
+* Bernt Eidsvig
+* Lilli Stenius
