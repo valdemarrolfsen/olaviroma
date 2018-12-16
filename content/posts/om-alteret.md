@@ -1,9 +1,8 @@
 ---
-title: "Om Alteret"
-date: 2018-10-21T21:07:53+02:00
-draft: true
----
+title: Om Alteret
+date: 2018-10-21 19:07:53 +0000
 
+---
 ## Et nasjonalt minnesmerke
 
 _Av Biskop Bernt Eidsvig_
@@ -20,4 +19,3 @@ I 1890 var det registrert 950 katolikker i Norge, så behovet for et valfartsmå
 Det er ikke helt lett å forklare hvorfor det lombardiske broderskap, som eier kirken, ikke har gjort dette. To protestantiske norske damer har nok sin del av æren for at kapellet er forblitt St. Olavs: Ciss Rieber-Mohn og Olgese Mowinckel Ringler. Med en blanding av charme, takt og direkte tale hevdet de det norske nærvær fra 1950 til 2000. Hvis vi hadde fått lov til å sette opp flere minnetavler, burde deres navn ha vært å lese i gullbokstaver. Det var messe til jul og efter hvert 17. mai. De sørget for vakre blomster, som lombardene flyttet til høyalteret sekunder efter at messen var over, og en god kollekt, som man visstnok også satte pris på.
 
 Og i mellomtiden er det titusener av norske turister i Roma hvert år. Mange av dem finner veien til St. Olav i S. Carlo. Kirkens prester merker at det kommer nordmenn for å be. Det feires flere gudstjenester der enn noensinne - også av Den norske kirke - det tennes flere votivlys og kollektene reflekterer norsk velstand. St. Olav har en sikker fremtid i Roma.
-
