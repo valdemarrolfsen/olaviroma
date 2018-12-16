@@ -1,7 +1,6 @@
 ---
 title: Styret
 date: 2018-10-21 19:20:44 +0000
-draft: true
 
 ---
 ### Foreningens styre består av:
